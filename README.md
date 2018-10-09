@@ -1,1 +1,2 @@
-# bamazon
+# Bamazon
+MySQL/Node Application
